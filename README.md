@@ -1,6 +1,7 @@
 # Rejection Therapy! 
 
-Rejction therapy here:
+Rejction therapy here: https://hub.ovh2.mybinder.org/user/guanhaozhu-rejection-therapy-d7qhjlxo/voila/render/Rejection%20Therapy!.ipynb?token=gbBfwdeLTSS--TFyDnLqIg
+
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GuanhaoZhu/Rejection-Therapy/HEAD?urlpath=%2Fvoila%2Frender%2FRejection%20Therapy!.ipynb)
 
 
