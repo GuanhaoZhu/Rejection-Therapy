@@ -28,6 +28,7 @@ decorator==5.1.1
 defusedxml==0.7.1
 diffusers==0.11.1
 dill==0.3.6
+ebird-api==3.0.6
 entrypoints==0.4
 executing==1.2.0
 fastjsonschema==2.16.2
@@ -132,6 +133,7 @@ tensorboard-plugin-wit==1.8.1
 terminado==0.17.1
 tinycss2==1.2.1
 tomli==2.0.1
+torch==2.0.0
 tornado==6.2
 tqdm==4.65.0
 traitlets==5.8.1
